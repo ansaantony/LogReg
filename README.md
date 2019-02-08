@@ -1,2 +1,2 @@
 # LogReg
-Login and Registration
+Login and Registration in PHP
